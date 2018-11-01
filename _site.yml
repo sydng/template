@@ -1,0 +1,28 @@
+name: "template"
+output_dir: "docs"
+navbar:
+  title: "Urban Spatial"
+  href: http://urbanspatialanalysis.com/
+  type: inverse
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Fairness Scorecard"
+      href: fairness.html
+    - text: "Child Maltreatment"
+      menu:
+        - text: "Richmond, VA"
+          href: richmond.html
+        - text: "Site B"
+          href: additional.html
+        - text: "---------"
+        - text: Resources
+        - text: Predict Align Prevent
+          href: https://www.predict-align-prevent.org/
+  right:
+    - icon: fa-github-square fa-lg
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/KenSteif
+output:
+  html_document:
+    theme: lumen

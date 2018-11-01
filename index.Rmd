@@ -1,0 +1,33 @@
+<br>
+<br>
+
+## Urban Spatial's Mission
+
+<a href="http://urbanspatialanalysis.com/"><img src="http://urbanspatialanalysis.com/wp-content/themes/urban-spatial-112/images/urban-spatial-logo.png" align="right" style="width:175px; height:175px; padding:20px; top:75px;"></a>
+
+  <span style="font-size: 16px">Urban Spatial consults at the intersection of data science and public policy. Founded in 2014 by Dr. Ken Steif, Urban Spatial combines spatial analysis, econometrics and predictive analytics to help government, business and the non-profit sector more efficiently allocate their limited resources across space. While our placed-based emphasis makes us unique, our real value-added is our ability to work across multiple related domains including urban economics, housing, neighborhoods, city & environmental planning, business siting, governance, economic development, public safety and beyond.</span>
+
+<br>
+<br>
+
+## Highlighted Projects
+
+<br>
+
+<div class="container" style="display: grid; grid-template-columns: 200px 200px 200px; grid-template-rows: 200px 200px 200px; grid-row-gap: 50px; grid-column-gap: 50px;">
+
+<div class="grid-item" style="height: 100%; width: 100%;">
+  <a href="fairness.html">
+    <img src="http://urbanspatialanalysis.com/wp-content/uploads/2015/09/homepage-one.png" style="height: 100%; width: 100%;">
+  </a>
+  <p style="font-size: 14px; font-weight: bold;">Algorithmic Fairness Scorecard</p>
+</div>
+
+<div class="grid-item" style="height: 100%; width: 100%;">
+  <a href="richmond.html">
+    <img src="http://web.cse.ohio-state.edu/~crawfis.3/cis694L/Images/NapoleonsMarchSmall.gif" style="height: 100%; width: 100%;">
+  </a>
+  <p style="font-size: 14px; font-weight: bold;">Child Maltreatment</p>
+</div>
+
+</div>

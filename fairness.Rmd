@@ -1,0 +1,7 @@
+---
+title: "Fairness Scorecard"
+---
+
+## Learn About Algorithmic Fairness
+
+spatial and people based algorithms with metrics to evaluate
